@@ -1,2 +1,2 @@
 # sigma-demo
-this is my first repository.
+this is my first repository.I am excited to learn it.
